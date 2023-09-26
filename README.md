@@ -20,3 +20,4 @@ Converting BRAT annotation to other NLP common formats
 - [BRAT IAA](https://github.com/kldtz/bratiaa)
 - [BRAT2CoNLL](https://github.com/pranav-s/brat2CoNLL)
 - [BRAT2BIO](https://github.com/oeg-upm/BRATtoBIO)
+- [Bratutils](https://github.com/savkov/bratutils)

@@ -1,0 +1,1 @@
+python brat2dict.py --path "corpus_v2_mine"

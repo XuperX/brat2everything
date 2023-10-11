@@ -14,7 +14,7 @@ Converting BRAT annotation to other NLP common formats
 
 ## Tasks
 - [x] BRAT2GeneralG_JSON
-- [ ] BRAT2BERTinput
+- [x] BRAT2BERTinput
 
 ## Inspirations
 - [BRAT IAA](https://github.com/kldtz/bratiaa)

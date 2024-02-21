@@ -1,0 +1,345 @@
+3D profile generation has definition Generate some type of structural (3D) profile or template from a structure or structure alignment.
+3D profile-to-3D profile alignment has definition Align structural (3D) profiles or templates (representing structures or structure alignments).
+3D profile-to-3D profile alignment (pairwise) has definition Align exactly two molecular Structural (3D) profiles.
+Ab initio structure prediction has definition Predict tertiary structure of protein sequence(s) without homologs of known structure.
+Accessible surface calculation has definition Calculate solvent accessible or buried surface areas in protein or other molecular structures.
+Allele frequency distribution analysis has definition Analyse a phylogenetic tree to identify allele frequency distribution and change that is subject to evolutionary pressures (natural selection, genetic drift, mutation and gene flow). Identify type of natural selection (such as stabilizing, balancing or disruptive).
+Alternative splicing prediction has definition Predict splicing alternatives or transcript isoforms from analysis of sequence data.
+Annotation has definition Annotate an entity (typically a biological or biomedical database entity) with terms from a controlled vocabulary.
+Annotation retrieval (sequence) has definition Retrieve basic information about a molecular sequence.
+Backbone modelling has definition Model protein backbone conformation.
+Base position variability plotting has definition Identify and plot third base position variability in a nucleotide sequence.
+Chimera detection has definition Detects chimeric sequences (chimeras) from a sequence alignment.
+Coding region prediction has definition Predict protein-coding regions (CDS or exon) or open reading frames in nucleotide sequences.
+Codon usage analysis has definition Analyse codon usage in molecular sequences or process codon usage data (e.g. a codon usage table).
+Codon usage table comparison has definition Compare two or more codon usage tables.
+Codon usage table formatting has definition Reformat a codon usage table.
+Codon usage table generation has definition Calculate codon usage statistics and create a codon usage table.
+Consensus tree construction has definition Compare two or more phylogenetic trees to produce a consensus tree.
+Consensus-based sequence alignment has definition Align two or more molecular sequences using multiple methods to achieve higher quality.
+Conserved transcription regulatory sequence identification has definition Identify common, conserved (homologous) or synonymous transcriptional regulatory motifs (transcription factor binding sites).
+Constrained sequence alignment has definition Align two or more molecular sequences with user-defined constraints.
+Contact map calculation has definition Calculate a residue contact map (typically all-versus-all inter-residue contacts) for a protein structure.
+CpG island and isochore detection has definition Find CpG rich regions in a nucleotide sequence or isochores in genome sequences.
+DNA linear map rendering has definition Draw a linear maps of DNA.
+DNA substitution modelling has definition Identify a plausible model of DNA substitution that explains a molecular (DNA or protein) sequence alignment.
+DNA transcription has definition Transcribe a nucleotide sequence into mRNA sequence(s).
+DNA translation has definition Translate a DNA sequence into protein.
+DNA vaccine design has definition Predict or optimise DNA to elicit (via DNA vaccination) an immunological response.
+Data index analysis has definition Analyse an index of biological data.
+Data retrieval (database cross-reference) has definition Search database to retrieve all relevant references to a particular entity or entry.
+Data retrieval (database metadata) has definition Search and retrieve names of or documentation on bioinformatics databases or query terms, for example by keyword.
+Data retrieval (feature table) has definition Extract a sequence feature table from a sequence database entry.
+Data retrieval (restriction enzyme annotation) has definition Retrieve information on restriction enzymes or restriction enzyme sites.
+Data retrieval (sequence alignment) has definition Display basic information about a sequence alignment.
+Data retrieval (tool metadata) has definition Search and retrieve names of or documentation on bioinformatics tools, for example by keyword or which perform a particular function.
+De-novo assembly has definition Sequence assembly by combining fragments without the aid of a reference sequence or genome.
+Disulfide bond prediction has definition Predict cysteine bonding state and disulfide bond partners in protein sequences.
+Dot plot plotting has definition Render a representation of a distribution that consists of group of data points plotted on a simple scale.
+EST and cDNA sequence analysis has definition Analyse EST or cDNA sequences.
+EST assembly has definition Sequence assembly for EST sequences (transcribed mRNA).
+Enzyme kinetics calculation has definition Calculate Km, Vmax and derived data for an enzyme reaction.
+Epitope mapping has definition Predict antigenic determinant sites (epitopes) in protein sequences.
+Epitope mapping (MHC Class I) has definition Predict epitopes that bind to MHC class I molecules.
+Epitope mapping (MHC Class II) has definition Predict epitopes that bind to MHC class II molecules.
+Exonic splicing enhancer prediction has definition Identify or predict exonic splicing enhancers (ESE) in exons.
+Expression data visualisation has definition Visualise microarray or other expression data.
+Expression profile clustering has definition Perform cluster analysis of expression data to identify groups with similar expression profiles, for example by clustering.
+Expression profile comparison has definition Comparison of expression profiles.
+Expression profile pathway mapping has definition Map an expression profile to known biological pathways, for example, to identify or reconstruct a pathway.
+Feature table query has definition Query the features (in a feature table) of molecular sequence(s).
+Fold recognition has definition Recognize (predict and identify) known protein structural domains or folds in protein sequence(s) which (typically) are not accompanied by any significant sequence similarity to know structures.
+Format validation has definition Test and validate the format and content of a data file.
+Formatting has definition Reformat a file of data (or equivalent entity in memory).
+Frameshift detection has definition Detect frameshifts in DNA sequences, including frameshift sites and signals, and frameshift errors from sequencing projects.
+Functional mapping has definition Map the genetic architecture of dynamic complex traits.
+Functional profiling has definition Interpret (in functional terms) and annotate gene expression data.
+GPCR analysis has definition Analyse G-protein coupled receptor proteins (GPCRs).
+GPCR prediction has definition Predict G protein-coupled receptors (GPCR).
+Gene component prediction has definition Detect, predict and identify genetic elements such as promoters, coding regions, splice sites, etc in DNA sequences.
+Gene expression profile analysis has definition Analyse one or more gene expression profiles, typically to interpret them in functional terms.
+Gene expression profiling has definition The measurement of the activity (expression) of multiple genes in a cell, tissue, sample etc., in order to get an impression of biological function.
+Gene tree construction has definition Construct a "gene tree" which represents the evolutionary history of the genes included in the study.  This can be used to predict families of genes and gene function based on their position in a phylogenetic tree.
+Genetic code prediction has definition Predict genetic code from analysis of codon usage data.
+Genetic mapping has definition Generate a genetic (linkage) map of a DNA sequence (typically a chromosome) showing the relative positions of genetic markers based on estimation of non-physical distances.
+Genetic marker identification has definition Identify genetic markers in DNA sequences.
+Genome annotation has definition Annotate a genome sequence with terms from a controlled vocabulary.
+Genome assembly has definition The process of assembling many short DNA sequences together such thay they represent the original chromosomes from which the DNA originated.
+Global alignment has definition Globally align two or more molecular sequences.
+Global structure alignment has definition Globally align (superimpose) two or more molecular tertiary structures.
+Haplotype mapping has definition Infer haplotypes, either alleles at multiple loci that are transmitted together on the same chromosome, or a set of single nucleotide polymorphisms (SNPs) on a single chromatid that are statistically associated.
+Heat map generation has definition Generate a heat map of expression data from e.g. microarray data.
+Hybrid sequence alignment construction has definition Align two or more molecular sequences of different types (for example genomic DNA to EST, cDNA or mRNA).
+Hydrogen bond calculation has definition Identify potential hydrogen bonds between amino acids and other groups.
+Immunogen design has definition Design molecules that elicit an immune response (immunogens).
+Immunogenicity prediction has definition Predict and optimise peptide ligands that elicit an immunological response.
+Indel detection has definition Identify insertion, deletion and duplication events from a sequence alignment.
+Indexing has definition Generate an index of (typically a file of) biological data.
+Integrated gene prediction has definition Predict whole gene structure using a combination of multiple methods to achieve better predictions.
+Linkage analysis has definition Analyse genetic linkage.
+Linkage disequilibrium calculation has definition Calculate linkage disequilibrium; the non-random association of alleles or polymorphisms at two or more loci (not necessarily on the same chromosome).
+Literature search has definition Query scientific literature, in search for articles, article data, concepts, named entities, or for statistics.
+Local alignment has definition Locally align two or more molecular sequences.
+Local structure alignment has definition Locally align (superimpose) two or more molecular tertiary structures.
+Loop modelling has definition Model loop conformation in protein structures.
+MHC peptide immunogenicity prediction has definition Predict MHC class I or class II binding peptides, promiscuous binding peptides, immunogenicity etc.
+MPSS data processing has definition Process (read and / or write) massively parallel signature sequencing (MPSS) data.
+Map drawing has definition Draw or visualise a DNA map.
+Mapping assembly has definition Sequence assembly by combining fragments using an existing backbone sequence, typically a reference genome.
+Metadata retrieval has definition Search for and retrieve data concerning or describing some core data, as distinct from the primary data that is being described.
+Microarray data standardisation and normalisation has definition Standardize or normalize microarray data.
+Microarray probe design has definition Predict and/or optimize oligonucleotide probes for DNA microarrays, for example for transcription profiling of genes, or for genomes and gene families.
+Molecular docking has definition Model the structure of a protein in complex with a small molecule or another macromolecule.
+Molecular model refinement has definition Refine (after evaluation) a model of a molecular structure (typically a protein structure) to reduce steric clashes, volume irregularities etc.
+Molecular surface calculation has definition Calculate the molecular surface area in proteins and other macromolecules.
+Motif database search has definition Screen a sequence against a motif or pattern database.
+Multiple sequence alignment has definition Align more than two molecular sequences.
+Multiple structure alignment has definition Align (superimpose) more than two molecular tertiary structures.
+Nucleic acid curvature calculation has definition Calculate curvature and flexibility / stiffness of a nucleotide sequence.
+Nucleic acid feature detection has definition Predict, recognise and identify features in nucleotide sequences such as functional sites or regions, typically by scanning for known motifs, patterns and regular expressions.
+Nucleic acid folding analysis has definition Analyse some aspect of RNA/DNA folding, typically by processing sequence and/or structural data.  For example, compute folding energies such as minimum folding energies for DNA or RNA sequences or energy landscape of RNA mutants.
+Nucleic acid melting curve plotting has definition Calculate and plot a DNA or DNA/RNA melting curve.
+Nucleic acid melting profile plotting has definition Calculate and plot a DNA or DNA/RNA melting profile.
+Nucleic acid probability profile plotting has definition Calculate and plot a DNA or DNA/RNA probability profile.
+Nucleic acid property calculation has definition Calculate or predict physical or chemical properties of nucleic acid molecules, including any non-positional properties of the molecular sequence.
+Nucleic acid property processing has definition Process (read and / or write) physicochemical property data of nucleic acids.
+Nucleic acid stitch profile plotting has definition Calculate and plot a DNA or DNA/RNA stitch profile.
+Nucleic acid structure prediction has definition Predict structure of DNA or RNA.
+Nucleic acid temperature profile plotting has definition Calculate and plot a DNA or DNA/RNA temperature profile.
+Nucleic acid thermodynamic property calculation has definition Calculate a thermodynamic property of DNA or DNA/RNA, such as melting temperature, enthalpy and entropy.
+Nucleic acids-binding site prediction has definition Predict or detect RNA and DNA-binding binding sites in protein sequences.
+Nucleosome formation potential prediction has definition Predict nucleosome formation potential of DNA sequences.
+Nucleosome position prediction has definition Identify or predict nucleosome exclusion sequences (nucleosome free regions) in DNA.
+Operation has definition A function that processes a set of inputs and results in a set of outputs, or associates arguments (inputs) with values (outputs).
+Operon drawing has definition Visualise operon structure etc.
+Operon prediction has definition Find operons (operators, promoters and genes) in bacteria genes.
+PCR primer design has definition Design or predict oligonucleotide primers for PCR and DNA amplification etc.
+PCR primer design (based on gene structure) has definition Predict primers based on gene structure.
+PCR primer design (for conserved primers) has definition Predict primers that are conserved across multiple genomes or species.
+PCR primer design (for gene transcription profiling) has definition Predict primers for gene transcription profiling.
+PCR primer design (for genotyping polymorphisms) has definition Predict primers for genotyping polymorphisms, for example single nucleotide polymorphisms (SNPs).
+PCR primer design (for large scale sequencing) has definition Predict primers for large scale sequencing.
+PCR primer design (for methylation PCRs) has definition Predict primers for methylation PCRs.
+PTM site prediction has definition Predict post-translation modification sites in protein sequences.
+Pairwise sequence alignment has definition Align exactly two molecular sequences.
+Pairwise sequence alignment generation (global) has definition Globally align exactly two molecular sequences.
+Pairwise sequence alignment generation (local) has definition Locally align exactly two molecular sequences.
+Pairwise structure alignment has definition Align (superimpose) exactly two molecular tertiary structures.
+Pairwise structure alignment generation (global) has definition Globally align (superimpose) exactly two molecular tertiary structures.
+Pairwise structure alignment generation (local) has definition Locally align (superimpose) exactly two molecular tertiary structures.
+Pathway or network comparison has definition Compare two or more biological pathways or networks.
+Peptide immunogenicity prediction has definition Predict antigenicity, allergenicity / immunogenicity, allergic cross-reactivity etc of peptides and proteins.
+Phylogenetic analysis has definition Analyse an existing phylogenetic tree or trees, typically to detect features or make predictions.
+Phylogenetic footprinting has definition Comparison of a DNA sequence to orthologous sequences in different species and inference of a phylogenetic tree, in order to identify regulatory elements such as transcription factor binding sites (TFBS).
+Phylogenetic inference has definition Construct a phylogenetic tree.
+Phylogenetic inference (AI methods) has definition Construct a phylogenetic tree by using artificial-intelligence methods, for example genetic algorithms.
+Phylogenetic inference (data centric) has definition Construct a phylogenetic tree from a specific type of data.
+Phylogenetic inference (from continuous quantitative characters) has definition Phylogenetic tree construction from continuous quantitative character data.
+Phylogenetic inference (from gene frequencies) has definition Phylogenetic tree construction from gene frequency data.
+Phylogenetic inference (from molecular sequences) has definition Phylogenetic tree construction from molecular sequences.
+Phylogenetic inference (from polymorphism data) has definition Phylogenetic tree construction from polymorphism data including microsatellites, RFLP (restriction fragment length polymorphisms), RAPD (random-amplified polymorphic DNA) and AFLP (amplified fragment length polymorphisms) data.
+Phylogenetic inference (maximum likelihood and Bayesian methods) has definition Construct a phylogenetic tree by relating sequence data to a hypothetical tree topology using a model of sequence evolution.
+Phylogenetic inference (method centric) has definition Construct a phylogenetic tree using a specific method.
+Phylogenetic inference (minimum distance methods) has definition Construct a phylogenetic tree by computing (or using precomputed) distances between sequences and searching for the tree with minimal discrepancies between pairwise distances.
+Phylogenetic inference (parsimony methods) has definition Construct a phylogenetic tree by computing a sequence alignment and searching for the tree with the fewest number of character-state changes from the alignment.
+Phylogenetic inference (quartet methods) has definition Construct a phylogenetic tree by computing four-taxon trees (4-trees) and searching for the phylogeny that matches most closely.
+Phylogenetic sub/super tree construction has definition Compare two or more phylogenetic trees to detect subtrees or supertrees.
+Phylogenetic tree annotation has definition Annotate a phylogenetic tree with terms from a controlled vocabulary.
+Phylogenetic tree bootstrapping has definition Apply bootstrapping or other measures to estimate confidence of a phylogenetic tree.
+Phylogenetic tree comparison has definition Compare two or more phylogenetic trees.
+Phylogenetic tree distances calculation has definition Compare two or more phylogenetic trees to calculate distances between trees.
+Phylogenetic tree editing has definition Edit a phylogenetic tree.
+Phylogenetic tree topology analysis has definition Analyse the shape (topology) of a phylogenetic tree.
+Phylogenetic tree visualisation has definition Render or visualise a phylogenetic tree.
+Plasmid map drawing has definition Draw a circular maps of DNA, for example a plasmid map.
+PolyA signal detection has definition Detect polyA signals in nucleotide sequences.
+Profile-profile alignment has definition Align sequence profiles (representing sequence alignments).
+Profile-profile alignment (pairwise) has definition Align exactly two molecular profiles.
+Promoter prediction has definition Identify or predict whole promoters or promoter elements (transcription start sites, RNA polymerase binding site, transcription factor binding sites, promoter enhancers etc) in DNA sequences.
+Protein SNP mapping has definition Map and model the effects of single nucleotide polymorphisms (SNPs) on protein structure(s).
+Protein aliphatic index calculation has definition Calculate aliphatic index (relative volume occupied by aliphatic side chains) of a protein.
+Protein architecture analysis has definition Analyse the architecture (spatial arrangement of secondary structure) of protein structure(s).
+Protein binding site prediction (from sequence) has definition Predict catalytic residues, active sites or other ligand-binding sites in protein sequences.
+Protein binding site prediction (from structure) has definition Identify or predict catalytic residues, active sites or other ligand-binding sites in protein structures.
+Protein cleavage site prediction has definition Detect or predict cleavage sites (enzymatic or chemical) in protein sequences.
+Protein crystallizability prediction has definition Predict crystallizability of a protein sequence.
+Protein dipole moment calculation has definition Calculate whether a protein structure has an unusually large net charge (dipole moment).
+Protein distance matrix calculation has definition Calculate a matrix of distance between residues (for example the C-alpha atoms) in a protein structure.
+Protein domain recognition has definition Identify structural domains in a protein structure from first principles (for example calculations on structural compactness).
+Protein extinction coefficient calculation has definition Predict extinction coefficients or optical density of a protein sequence.
+Protein feature prediction (from sequence) has definition Predict, recognise and identify positional features in protein sequences such as functional sites or regions and secondary structure.
+Protein folding pathway prediction has definition Predict the folding pathway(s) or non-native structural intermediates of a protein.
+Protein folding simulation has definition Simulate the folding of a protein.
+Protein folding site prediction has definition Predict protein sites that are key to protein folding, such as possible sites of nucleation or stabilisation.
+Protein geometry calculation has definition Calculate, visualise or analyse phi/psi angles of a protein structure.
+Protein globularity prediction has definition Predict the stability or globularity of a protein sequence, whether it is intrinsically unfolded etc.
+Protein hydrogen exchange rate calculation has definition Estimate hydrogen exchange rate of a protein sequence.
+Protein hydropathy calculation (from sequence) has definition Hydropathy calculation on a protein sequence.
+Protein hydropathy calculation (from structure) has definition Analyse the hydrophobic, hydrophilic or charge properties of a protein structure.
+Protein hydropathy cluster calculation has definition Identify clusters of hydrophobic or charged residues in a protein structure.
+Protein hydrophobic moment plotting has definition Calculate the hydrophobic moment of a peptide sequence and recognize amphiphilicity.
+Protein hydrophobic region calculation has definition Calculate hydrophobic or hydrophilic / charged regions of a protein sequence.
+Protein interaction network analysis has definition Analyse a network of protein interactions.
+Protein interaction network visualisation has definition Identify and analyse networks of protein interactions.
+Protein interaction raw data analysis has definition Analyse experimental protein-protein interaction data from for example yeast two-hybrid analysis, protein microarrays, immunoaffinity chromatography followed by mass spectrometry, phage display etc.
+Protein isoelectric point calculation has definition Calculate isoelectric point of a protein sequence.
+Protein modelling has definition Build a three-dimensional protein model based on known (for example homologs) structures.
+Protein molecular weight calculation has definition Calculate the molecular weight of a protein sequence or fragments.
+Protein pKa calculation has definition Calculate pH-dependent properties from pKa calculations of a protein sequence.
+Protein peeling has definition Decompose a structure into compact or globular fragments (protein peeling).
+Protein property calculation has definition Extract, calculate or predict non-positional (physical or chemical) properties of a protein, including any non-positional properties of the molecular sequence, from processing a protein sequence or 3D structure.
+Protein property calculation (from structure) has definition Extract, calculate or predict non-positional (physical or chemical) properties of a protein from processing a protein (3D) structure.
+Protein secondary database search has definition Search a secondary protein database (of classification information) to assign a protein sequence(s) to a known protein family or group.
+Protein secondary structure alignment generation has definition Align protein secondary structures.
+Protein secondary structure assignment has definition Assign secondary structure from protein coordinate or experimental data.
+Protein secondary structure assignment (from CD data) has definition Assign secondary structure from circular dichroism (CD) spectroscopic data.
+Protein secondary structure assignment (from coordinate data) has definition Assign secondary structure from protein coordinate data.
+Protein secondary structure prediction has definition Predict secondary structure of protein sequences.
+Protein secondary structure prediction (coils) has definition Predict open coils, non-regular secondary structure and intrinsically disordered / unstructured regions of protein sequences.
+Protein secondary structure prediction (helices) has definition Predict helical secondary structure of protein sequences.
+Protein secondary structure prediction (integrated) has definition Predict secondary structure of protein sequence(s) using multiple methods to achieve better predictions.
+Protein secondary structure prediction (turns) has definition Predict turn structure (for example beta hairpin turns) of protein sequences.
+Protein secondary structure visualisation has definition Render and visualise protein secondary structure.
+Protein sequence cleavage has definition Cleave a protein sequence into peptide fragments (corresponding to enzymatic or chemical cleavage).
+Protein signal peptide detection has definition Detect or predict signal peptides and signal peptide cleavage sites in protein sequences.
+Protein signal peptide detection (bacteria) has definition Detect or predict signal peptides (and typically predict subcellular localisation) of bacterial proteins.
+Protein signal peptide detection (eukaryotes) has definition Detect or predict signal peptides (and typically predict subcellular localisation) of eukaryotic proteins.
+Protein solubility prediction has definition Predict the solubility or atomic solvation energy of a protein sequence.
+Protein structure assignment has definition Assign a protein tertiary structure (3D coordinates), or other aspects of protein structure, from raw experimental data.
+Protein structure assignment (from NMR data) has definition Assign a protein tertiary structure (3D coordinates) from raw NMR spectroscopy data.
+Protein structure assignment (from X-ray crystallographic data) has definition Assign a protein tertiary structure (3D coordinates) from raw X-ray crystallography data.
+Protein structure prediction has definition Predict tertiary structure (backbone and side-chain conformation) of protein sequences.
+Protein structure validation has definition Evaluate the quality or correctness a protein three-dimensional model.
+Protein super-secondary structure prediction has definition Predict super-secondary structure of protein sequence(s).
+Protein threading has definition Align molecular sequence to structure in 3D space (threading).
+Protein titration curve plotting has definition Plot a protein titration curve.
+Protein-ligand docking has definition Model protein-ligand (for example protein-peptide) binding using comparative modelling or other techniques.
+Protein-nucleic acid interaction analysis has definition Analyse the interaction of protein with nucleic acids, e.g. RNA or DNA-binding sites, interfaces etc.
+Protein-protein interaction prediction (from protein sequence) has definition Identify or predict protein-protein interactions, interfaces, binding sites etc in protein sequences.
+Protein-protein interaction prediction (from protein structure) has definition Identify or predict protein-protein interactions, interfaces, binding sites etc in protein structures.
+Quadruplex formation site detection has definition Detect quadruplex-forming motifs in nucleotide sequences.
+Query and retrieval has definition Search or query a data resource and retrieve entries and / or annotation.
+RNA inverse folding has definition Predict or optimise RNA sequences (sequence pools) with likely secondary and tertiary structure for in vitro selection.
+RNA secondary structure alignment has definition Align RNA secondary structures.
+RNA secondary structure prediction has definition Predict RNA secondary structure (for example knots, pseudoknots, alternative structures etc).
+RNA secondary structure visualisation has definition Visualise RNA secondary structure, knots, pseudoknots etc.
+Radiation Hybrid Mapping has definition Generate a physical (radiation hybrid) map of genetic markers in a DNA sequence using provided radiation hybrid (RH) scores for one or more markers.
+Ramachandran plot calculation has definition Calculate a Ramachandran plot of a protein structure.
+Ramachandran plot validation has definition Validate a Ramachandran plot of a protein structure.
+Random sequence generation has definition Generate a random sequence, for example, with a specific character composition.
+Recombination detection has definition Detect recombination (hotspots and coldspots) and identify recombination breakpoints in a sequence alignment.
+Repeat sequence analysis has definition Find and/or analyse repeat sequences in (typically nucleotide) sequences.
+Repeat sequence detection has definition Find (and possibly render) short repetitive subsequences (repeat sequences) in (typically nucleotide) sequences.
+Repeat sequence organisation analysis has definition Analyse repeat sequence organisation such as periodicity.
+Residue cluster calculation has definition Calculate clusters of contacting residues in protein structures.
+Residue contact prediction has definition Predict contacts, non-covalent interactions and distance (constraints) between amino acids in protein sequences.
+Residue interaction calculation has definition Calculate or extract inter-atomic, inter-residue or residue-atom contacts, distances and interactions in protein structure(s).
+Residue non-canonical interaction detection has definition Calculate non-canonical atomic interactions in protein structures.
+Restriction digest has definition Generate digest fragments for a nucleotide sequence containing restriction sites.
+Restriction map drawing has definition Draw or visualise restriction maps in DNA sequences.
+Restriction site creation has definition Create (or remove) restriction sites in sequences, for example using silent mutations.
+Restriction site recognition has definition Find and identify restriction enzyme cleavage sites (restriction sites) in (typically) DNA sequences, for example to generate a restriction map.
+Reverse complement has definition Generate the reverse and / or complement of a nucleotide sequence.
+S/MAR prediction has definition Identify matrix/scaffold attachment regions (MARs/SARs) in DNA sequences.
+SAGE data processing has definition Process (read and / or write) serial analysis of gene expression (SAGE) data.
+SBS data processing has definition Process (read and / or write) sequencing by synthesis (SBS) data.
+SECIS element prediction has definition Predict selenocysteine insertion sequence (SECIS) in a DNA sequence.
+SNP detection has definition Find single nucleotide polymorphisms (SNPs) - single nucleotide change in base positions - between sequences. Typically done for sequences from a high-throughput sequencing experiment that differ from a reference genome and which might, especially by reference to population frequency or functional data, indicate a polymorphism.
+Secondary structure alignment generation has definition Align molecular secondary structure (represented as a 1D string).
+Sequence alignment has definition Align (identify equivalent sites within) molecular sequences.
+Sequence alignment analysis has definition Analyse a molecular sequence alignment.
+Sequence alignment analysis (conservation) has definition Analyse character conservation in a molecular sequence alignment, for example to derive a consensus sequence.
+Sequence alignment analysis (site correlation) has definition Analyse correlations between sites in a molecular sequence alignment.
+Sequence alignment comparison has definition Compare (typically by aligning) two molecular sequence alignments.
+Sequence alignment conversion has definition Convert a molecular sequence alignment from one type to another (for example amino acid to coding nucleotide sequence).
+Sequence alignment formatting has definition Reformat (a file or other report of) molecular sequence alignment(s).
+Sequence alignment generation (multiple profile) has definition Align two or more molecular profiles.
+Sequence alignment validation has definition Evaluate molecular sequence alignment accuracy.
+Sequence alignment visualisation has definition Visualise, format or print a molecular sequence alignment.
+Sequence ambiguity calculation has definition Calculate sequence ambiguity, for example identity regions in protein or nucleotide sequences with many ambiguity codes.
+Sequence annotation has definition Annotate a molecular sequence record with terms from a controlled vocabulary.
+Sequence assembly has definition Combine (align and merge) overlapping fragments of a DNA sequence to reconstruct the original sequence.
+Sequence cluster visualisation has definition Visualise, format or render sequence clusters.
+Sequence clustering has definition Build clusters of similar sequences, typically using scores from pair-wise alignment or other comparison of the sequences.
+Sequence complexity calculation has definition Calculate sequence complexity, for example to find low-complexity regions in sequences.
+Sequence composition calculation has definition Calculate character or word composition or frequency of a molecular sequence.
+Sequence composition calculation (nucleic acid) has definition Calculate base frequency or word composition of a nucleotide sequence.
+Sequence composition calculation (protein) has definition Calculate amino acid frequency or word composition of a protein sequence.
+Sequence conversion has definition Convert a molecular sequence from one type to another.
+Sequence cutting has definition Cut (remove) characters or a region from a molecular sequence.
+Sequence database search has definition Search a sequence database by sequence comparison and retrieve similar sequences.. sequences matching a given sequence motif or pattern, such as a Prosite pattern or regular expression.
+Sequence database search (by amino acid composition) has definition Search a sequence database and retrieve sequences of a given amino acid composition.
+Sequence database search (by isoelectric point) has definition Search sequence(s) or a sequence database for sequences of a given isoelectric point.
+Sequence database search (by molecular weight) has definition Search sequence(s) or a sequence database for sequences which match a set of peptide masses, for example a peptide mass fingerprint from mass spectrometry.
+Sequence database search (by motif or pattern) has definition Search a sequence database and retrieve sequences matching a given sequence motif or pattern, such as a Prosite pattern or regular expression.
+Sequence database search (by property) has definition Search a sequence database and retrieve sequences with a specified property, typically a physicochemical or compositional property.
+Sequence database search (by sequence for primer sequences) has definition Search a DNA database (for example a database of conserved sequence tags) for matches to Sequence-Tagged Site (STS) primer sequences.
+Sequence database search (by sequence using global alignment-based methods) has definition Search sequence(s) or a sequence database for sequences that are similar to a query sequence using a global alignment-based method.
+Sequence database search (by sequence using local alignment-based methods) has definition Search a sequence database for sequences that are similar to a query sequence using a local alignment-based method.
+Sequence database search (by sequence using profile-based methods) has definition Search a sequence database and retrieve sequences that are similar to a query sequence using a sequence profile-based method, or with a supplied profile as query.
+Sequence database search (by sequence using word-based methods) has definition Search a sequence database and retrieve sequences that are similar to a query sequence using a word-based method.
+Sequence distance matrix generation has definition Calculate a sequence distance matrix or otherwise estimate genetic distances between molecular sequences.
+Sequence editing has definition Edit or change a molecular sequence, either randomly or specifically.
+Sequence feature comparison has definition Compare the feature tables of two or more molecular sequences.
+Sequence feature detection has definition Predict, recognise and identify positional features in molecular sequences such as key functional sites or regions.
+Sequence formatting has definition Reformat (a file or other report of) molecular sequence(s).
+Sequence generation has definition Generate a molecular sequence by some means.
+Sequence masking has definition Mask characters in a molecular sequence (replacing those characters with a mask character).
+Sequence merging has definition Merge two or more (typically overlapping) molecular sequences.
+Sequence motif comparison has definition Find motifs shared by molecular sequences.
+Sequence motif discovery has definition Discover new motifs or conserved patterns in sequences or sequence alignments (de-novo discovery).
+Sequence motif recognition has definition Find (scan for) known motifs, patterns and regular expressions in molecular sequence(s).
+Sequence motif rendering has definition Render a sequence with motifs.
+Sequence mutation and randomisation has definition Mutate a molecular sequence a specified amount or shuffle it to produce a randomised sequence with the same overall composition.
+Sequence profile alignment has definition Align molecular sequence(s) to sequence profile(s), or profiles to other profiles.  A profile typically represents a sequence alignment.
+Sequence profile database search has definition Search a database of sequence profiles with a query sequence.
+Sequence profile generation has definition Generate some type of sequence profile (for example a hidden Markov model) from a sequence alignment.
+Sequence redundancy removal has definition Compare two or more molecular sequences, identify and remove redundant sequences based on some criteria.
+Sequence retrieval (by code) has definition Query a database and retrieve sequences with a given entry code or accession number.
+Sequence retrieval (by keyword) has definition Query a database and retrieve sequences containing a given keyword.
+Sequence similarity search has definition Search a sequence database and retrieve sequences that are similar to a query sequence.
+Sequence tag mapping has definition Make sequence tag to gene assignments (tag mapping) of SAGE, MPSS and SBS data.
+Sequence visualisation has definition Visualise, format or render a molecular sequence or sequences such as a sequence alignment, possibly with sequence features or properties shown.
+Sequence word comparison has definition Find exact character or word matches between molecular sequences without full sequence alignment.
+Sequence-to-3D-profile alignment has definition Align molecular sequence(s) to structural (3D) profile(s) or template(s) (representing a structure or structure alignment).
+Sequencing-based expression profile data processing has definition Process (read and / or write) SAGE, MPSS or SBS experimental data.
+Side chain modelling has definition Model, analyse or edit amino acid side chain conformation in protein structure, optimize side-chain packing, hydrogen bonding etc.
+Simulation analysis has definition Analyse flexibility and motion in protein structure.
+Species tree construction has definition Construct a phylogenetic species tree, for example, from a genome-wide sequence comparison.
+Splice site prediction has definition Identify, predict or analyse splice sites in nucleotide sequences.
+Structural genomics target selection has definition Identify and select targets for protein structural determination.
+Structural motif discovery has definition Identify or screen for 3D structural motifs in protein structure(s).
+Structural profile alignment generation (multiple) has definition Align two or more molecular 3D profiles.
+Structural similarity search has definition Search a database of molecular structure and retrieve structures that are similar to a query structure.
+Structure alignment has definition Align (superimpose) molecular tertiary structures.
+Structure alignment (RNA) has definition Align RNA tertiary structures.
+Structure alignment (protein) has definition Align protein tertiary structures.
+Structure database search has definition Search a tertiary structure database, typically by sequence and/or structure comparison, or some other means, and retrieve structures and associated data.
+Structure database search (by sequence) has definition Search a tertiary structure database and retrieve structures with a sequence similar to a query sequence.
+Structure prediction has definition Predict tertiary structure of a molecular (biopolymer) sequence.
+Structure retrieval (by code) has definition Query a tertiary structure database and retrieve entries with a given entry code or accession number.
+Structure retrieval (by keyword) has definition Query a tertiary structure database and retrieve entries containing a given keyword.
+Structure visualisation has definition Visualise or render molecular 3D structure, for example a high-quality static picture or animation.
+Structure-based sequence alignment has definition Align molecular sequences using sequence and structural information.
+Text mining has definition Process and analyse text (typically scientific literature) to extract information from it.
+Transcription factor binding site prediction has definition Identify or predict transcription factor binding sites in DNA sequences.
+Transcription regulatory sequence analysis has definition Analyse the sequence, conformational or physicochemical properties of transcription regulatory elements in DNA sequences.
+Transcriptional regulatory element prediction has definition Identify or predict transcriptional regulatory motifs, patterns, elements or regions in DNA sequences.
+Transcriptional regulatory element prediction (RNA-cis) has definition Identify, predict or analyse cis-regulatory elements (for example riboswitches) in RNA sequences.
+Translation initiation site prediction has definition Predict translation initiation sites, possibly by searching a database of sites.
+Transmembrane protein analysis has definition Analyse transmembrane protein(s), typically by processing sequence and / or structural data, and write an informative report for example about the protein and its transmembrane domains / regions.
+Transmembrane protein database search has definition Search a database of transmembrane proteins, for example for sequence or structural similarities.
+Transmembrane protein prediction has definition Predict and/or classify transmembrane proteins or transmembrane (helical) domains or regions in protein sequences.
+Transposon prediction has definition Detect or predict transposons, retrotransposons / retrotransposition signatures etc.
+Tree-based sequence alignment has definition Align multiple sequences using relative gap costs calculated from neighbors in a supplied phylogenetic tree.
+Variant effect prediction has definition Predict the effect of point mutation on a protein structure, in terms of strucural effects and protein folding, stability and function.
+Vector sequence detection has definition Detect vector sequences in nucleotide sequence, typically by comparison to a set of known vector sequences.
+Virtual PCR has definition Perform in-silico (virtual) PCR.
+Visualisation has definition Visualise, plot or render (graphically) biomolecular data such as molecular sequences or structures.
+Whole gene prediction has definition Detect, predict and identify whole gene structure in DNA sequences. This includes protein coding regions, exon-intron structure, regulatory regions etc.
+Zinc finger prediction has definition Predict and optimise zinc finger protein domains for DNA/RNA binding (for example for transcription factors and nucleases).
+cis-regulatory element prediction has definition Identify, predict or analyse cis-regulatory elements  in DNA sequences (TATA box, Pribnow box, SOS box, CAAT box, CCAAT box, operator etc.) or in RNA sequences (e.g. riboswitches).
+miRNA target prediction has definition Identify or predict microRNA sequences (miRNA) and precursors or microRNA targets / binding sites in a DNA sequence.
+siRNA binding specificity prediction has definition Assess binding specificity of putative siRNA sequence(s), for example for a functional assay, typically with respect to designing specific siRNA sequences.
+tRNA gene prediction has definition Identify or predict tRNA genes in genomic sequences (tRNA).
+trans-regulatory element prediction has definition Identify or predict functional RNA sequences with a gene regulatory role (trans-regulatory elements) or targets.

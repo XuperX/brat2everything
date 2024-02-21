@@ -1,0 +1,345 @@
+T1	Means 0 21	3D profile generation
+T2	Means 136 170	3D profile-to-3D profile alignment
+T3	Means 281 326	3D profile-to-3D profile alignment (pairwise)
+T4	Means 396 426	Ab initio structure prediction
+T5	Means 529 559	Accessible surface calculation
+T6	Means 670 708	Allele frequency distribution analysis
+T7	Means 990 1021	Alternative splicing prediction
+T8	Means 1122 1132	Annotation
+T9	Means 1263 1294	Annotation retrieval (sequence)
+T10	Means 1365 1383	Backbone modelling
+T11	Means 1436 1470	Base position variability plotting
+T12	Means 1562 1579	Chimera detection
+T13	Means 1660 1684	Coding region prediction
+T14	Means 1793 1813	Codon usage analysis
+T15	Means 1928 1956	Codon usage table comparison
+T16	Means 2012 2040	Codon usage table formatting
+T17	Means 2086 2114	Codon usage table generation
+T18	Means 2195 2222	Consensus tree construction
+T19	Means 2306 2340	Consensus-based sequence alignment
+T20	Means 2444 2502	Conserved transcription regulatory sequence identification
+T21	Means 2644 2674	Constrained sequence alignment
+T22	Means 2759 2782	Contact map calculation
+T23	Means 2905 2938	CpG island and isochore detection
+T24	Means 3035 3059	DNA linear map rendering
+T25	Means 3102 3128	DNA substitution modelling
+T26	Means 3254 3271	DNA transcription
+T27	Means 3343 3358	DNA translation
+T28	Means 3413 3431	DNA vaccine design
+T29	Means 3530 3549	Data index analysis
+T30	Means 3602 3643	Data retrieval (database cross-reference)
+T31	Means 3744 3778	Data retrieval (database metadata)
+T32	Means 3908 3938	Data retrieval (feature table)
+T33	Means 4019 4065	Data retrieval (restriction enzyme annotation)
+T34	Means 4154 4189	Data retrieval (sequence alignment)
+T35	Means 4259 4289	Data retrieval (tool metadata)
+T36	Means 4439 4455	De-novo assembly
+T37	Means 4563 4588	Disulfide bond prediction
+T38	Means 4685 4702	Dot plot plotting
+T39	Means 4825 4855	EST and cDNA sequence analysis
+T40	Means 4902 4914	EST assembly
+T41	Means 4986 5013	Enzyme kinetics calculation
+T42	Means 5089 5104	Epitope mapping
+T43	Means 5189 5218	Epitope mapping (MHC Class I)
+T44	Means 5287 5317	Epitope mapping (MHC Class II)
+T45	Means 5387 5422	Exonic splicing enhancer prediction
+T46	Means 5500 5529	Expression data visualisation
+T47	Means 5592 5621	Expression profile clustering
+T48	Means 5761 5790	Expression profile comparison
+T49	Means 5841 5875	Expression profile pathway mapping
+T50	Means 5998 6017	Feature table query
+T51	Means 6099 6115	Fold recognition
+T52	Means 6326 6343	Format validation
+T53	Means 6416 6426	Formatting
+T54	Means 6500 6520	Frameshift detection
+T55	Means 6661 6679	Functional mapping
+T56	Means 6751 6771	Functional profiling
+T57	Means 6854 6867	GPCR analysis
+T58	Means 6936 6951	GPCR prediction
+T59	Means 7011 7036	Gene component prediction
+T60	Means 7169 7201	Gene expression profile analysis
+T61	Means 7312 7337	Gene expression profiling
+T62	Means 7502 7524	Gene tree construction
+T63	Means 7755 7778	Genetic code prediction
+T64	Means 7850 7865	Genetic mapping
+T65	Means 8054 8083	Genetic marker identification
+T66	Means 8142 8159	Genome annotation
+T67	Means 8243 8258	Genome assembly
+T68	Means 8415 8431	Global alignment
+T69	Means 8495 8521	Global structure alignment
+T70	Means 8609 8626	Haplotype mapping
+T71	Means 8854 8873	Heat map generation
+T72	Means 8955 8993	Hybrid sequence alignment construction
+T73	Means 9114 9139	Hydrogen bond calculation
+T74	Means 9227 9243	Immunogen design
+T75	Means 9321 9346	Immunogenicity prediction
+T76	Means 9438 9453	Indel detection
+T77	Means 9548 9556	Indexing
+T78	Means 9632 9658	Integrated gene prediction
+T79	Means 9774 9790	Linkage analysis
+T80	Means 9831 9865	Linkage disequilibrium calculation
+T81	Means 10032 10049	Literature search
+T82	Means 10177 10192	Local alignment
+T83	Means 10255 10280	Local structure alignment
+T84	Means 10367 10381	Loop modelling
+T85	Means 10444 10481	MHC peptide immunogenicity prediction
+T86	Means 10597 10617	MPSS data processing
+T87	Means 10716 10727	Map drawing
+T88	Means 10772 10788	Mapping assembly
+T89	Means 10912 10930	Metadata retrieval
+T90	Means 11075 11124	Microarray data standardisation and normalisation
+T91	Means 11182 11205	Microarray probe design
+T92	Means 11373 11390	Molecular docking
+T93	Means 11498 11524	Molecular model refinement
+T94	Means 11684 11713	Molecular surface calculation
+T95	Means 11804 11825	Motif database search
+T96	Means 11896 11923	Multiple sequence alignment
+T97	Means 11980 12008	Multiple structure alignment
+T98	Means 12089 12123	Nucleic acid curvature calculation
+T99	Means 12213 12243	Nucleic acid feature detection
+T100	Means 12435 12464	Nucleic acid folding analysis
+T101	Means 12710 12745	Nucleic acid melting curve plotting
+T102	Means 12812 12849	Nucleic acid melting profile plotting
+T103	Means 12918 12959	Nucleic acid probability profile plotting
+T104	Means 13032 13065	Nucleic acid property calculation
+T105	Means 13228 13260	Nucleic acid property processing
+T106	Means 13354 13390	Nucleic acid stitch profile plotting
+T107	Means 13458 13491	Nucleic acid structure prediction
+T108	Means 13540 13581	Nucleic acid temperature profile plotting
+T109	Means 13654 13701	Nucleic acid thermodynamic property calculation
+T110	Means 13822 13859	Nucleic acids-binding site prediction
+T111	Means 13949 13990	Nucleosome formation potential prediction
+T112	Means 14063 14093	Nucleosome position prediction
+T113	Means 14194 14203	Operation
+T114	Means 14350 14364	Operon drawing
+T115	Means 14412 14429	Operon prediction
+T116	Means 14510 14527	PCR primer design
+T117	Means 14620 14663	PCR primer design (based on gene structure)
+T118	Means 14720 14761	PCR primer design (for conserved primers)
+T119	Means 14848 14900	PCR primer design (for gene transcription profiling)
+T120	Means 14966 15014	PCR primer design (for genotyping polymorphisms)
+T121	Means 15128 15174	PCR primer design (for large scale sequencing)
+T122	Means 15234 15274	PCR primer design (for methylation PCRs)
+T123	Means 15328 15347	PTM site prediction
+T124	Means 15429 15456	Pairwise sequence alignment
+T125	Means 15511 15558	Pairwise sequence alignment generation (global)
+T126	Means 15622 15668	Pairwise sequence alignment generation (local)
+T127	Means 15731 15759	Pairwise structure alignment
+T128	Means 15838 15886	Pairwise structure alignment generation (global)
+T129	Means 15974 16021	Pairwise structure alignment generation (local)
+T130	Means 16108 16137	Pathway or network comparison
+T131	Means 16206 16239	Peptide immunogenicity prediction
+T132	Means 16365 16386	Phylogenetic analysis
+T133	Means 16500 16525	Phylogenetic footprinting
+T134	Means 16746 16768	Phylogenetic inference
+T135	Means 16815 16850	Phylogenetic inference (AI methods)
+T136	Means 16970 17007	Phylogenetic inference (data centric)
+T137	Means 17083 17147	Phylogenetic inference (from continuous quantitative characters)
+T138	Means 17239 17285	Phylogenetic inference (from gene frequencies)
+T139	Means 17358 17407	Phylogenetic inference (from molecular sequences)
+T140	Means 17480 17527	Phylogenetic inference (from polymorphism data)
+T141	Means 17771 17835	Phylogenetic inference (maximum likelihood and Bayesian methods)
+T142	Means 17976 18015	Phylogenetic inference (method centric)
+T143	Means 18086 18135	Phylogenetic inference (minimum distance methods)
+T144	Means 18327 18369	Phylogenetic inference (parsimony methods)
+T145	Means 18546 18586	Phylogenetic inference (quartet methods)
+T146	Means 18731 18771	Phylogenetic sub/super tree construction
+T147	Means 18860 18888	Phylogenetic tree annotation
+T148	Means 18974 19005	Phylogenetic tree bootstrapping
+T149	Means 19106 19134	Phylogenetic tree comparison
+T150	Means 19190 19229	Phylogenetic tree distances calculation
+T151	Means 19322 19347	Phylogenetic tree editing
+T152	Means 19389 19424	Phylogenetic tree topology analysis
+T153	Means 19493 19524	Phylogenetic tree visualisation
+T154	Means 19581 19600	Plasmid map drawing
+T155	Means 19672 19694	PolyA signal detection
+T156	Means 19756 19781	Profile-profile alignment
+T157	Means 19857 19893	Profile-profile alignment (pairwise)
+T158	Means 19947 19966	Promoter prediction
+T159	Means 20174 20193	Protein SNP mapping
+T160	Means 20302 20337	Protein aliphatic index calculation
+T161	Means 20445 20474	Protein architecture analysis
+T162	Means 20585 20632	Protein binding site prediction (from sequence)
+T163	Means 20741 20789	Protein binding site prediction (from structure)
+T164	Means 20911 20943	Protein cleavage site prediction
+T165	Means 21038 21074	Protein crystallizability prediction
+T166	Means 21139 21172	Protein dipole moment calculation
+T167	Means 21277 21312	Protein distance matrix calculation
+T168	Means 21432 21458	Protein domain recognition
+T169	Means 21601 21643	Protein extinction coefficient calculation
+T170	Means 21733 21775	Protein feature prediction (from sequence)
+T171	Means 21925 21959	Protein folding pathway prediction
+T172	Means 22059 22085	Protein folding simulation
+T173	Means 22136 22167	Protein folding site prediction
+T174	Means 22293 22321	Protein geometry calculation
+T175	Means 22408 22438	Protein globularity prediction
+T176	Means 22556 22598	Protein hydrogen exchange rate calculation
+T177	Means 22669 22715	Protein hydropathy calculation (from sequence)
+T178	Means 22777 22824	Protein hydropathy calculation (from structure)
+T179	Means 22922 22960	Protein hydropathy cluster calculation
+T180	Means 23053 23088	Protein hydrophobic moment plotting
+T181	Means 23189 23227	Protein hydrophobic region calculation
+T182	Means 23321 23357	Protein interaction network analysis
+T183	Means 23416 23457	Protein interaction network visualisation
+T184	Means 23528 23565	Protein interaction raw data analysis
+T185	Means 23780 23817	Protein isoelectric point calculation
+T186	Means 23884 23901	Protein modelling
+T187	Means 24007 24043	Protein molecular weight calculation
+T188	Means 24126 24149	Protein pKa calculation
+T189	Means 24244 24259	Protein peeling
+T190	Means 24351 24379	Protein property calculation
+T191	Means 24607 24652	Protein property calculation (from structure)
+T192	Means 24802 24835	Protein secondary database search
+T193	Means 24987 25035	Protein secondary structure alignment generation
+T194	Means 25087 25125	Protein secondary structure assignment
+T195	Means 25214 25267	Protein secondary structure assignment (from CD data)
+T196	Means 25359 25420	Protein secondary structure assignment (from coordinate data)
+T197	Means 25493 25531	Protein secondary structure prediction
+T198	Means 25597 25643	Protein secondary structure prediction (coils)
+T199	Means 25785 25833	Protein secondary structure prediction (helices)
+T200	Means 25907 25958	Protein secondary structure prediction (integrated)
+T201	Means 26079 26125	Protein secondary structure prediction (turns)
+T202	Means 26219 26260	Protein secondary structure visualisation
+T203	Means 26326 26351	Protein sequence cleavage
+T204	Means 26467 26499	Protein signal peptide detection
+T205	Means 26605 26648	Protein signal peptide detection (bacteria)
+T206	Means 26770 26815	Protein signal peptide detection (eukaryotes)
+T207	Means 26938 26967	Protein solubility prediction
+T208	Means 27056 27084	Protein structure assignment
+T209	Means 27221 27265	Protein structure assignment (from NMR data)
+T210	Means 27366 27429	Protein structure assignment (from X-ray crystallographic data)
+T211	Means 27535 27563	Protein structure prediction
+T212	Means 27667 27695	Protein structure validation
+T213	Means 27782 27826	Protein super-secondary structure prediction
+T214	Means 27900 27917	Protein threading
+T215	Means 27996 28028	Protein titration curve plotting
+T216	Means 28076 28098	Protein-ligand docking
+T217	Means 28222 28263	Protein-nucleic acid interaction analysis
+T218	Means 28381 28443	Protein-protein interaction prediction (from protein sequence)
+T219	Means 28561 28624	Protein-protein interaction prediction (from protein structure)
+T220	Means 28743 28778	Quadruplex formation site detection
+T221	Means 28852 28871	Query and retrieval
+T222	Means 28961 28980	RNA inverse folding
+T223	Means 29116 29149	RNA secondary structure alignment
+T224	Means 29197 29231	RNA secondary structure prediction
+T225	Means 29341 29378	RNA secondary structure visualisation
+T226	Means 29453 29477	Radiation Hybrid Mapping
+T227	Means 29642 29671	Ramachandran plot calculation
+T228	Means 29741 29769	Ramachandran plot validation
+T229	Means 29838 29864	Random sequence generation
+T230	Means 29960 29983	Recombination detection
+T231	Means 30109 30133	Repeat sequence analysis
+T232	Means 30223 30248	Repeat sequence detection
+T233	Means 30377 30414	Repeat sequence organisation analysis
+T234	Means 30488 30515	Residue cluster calculation
+T235	Means 30596 30622	Residue contact prediction
+T236	Means 30751 30782	Residue interaction calculation
+T237	Means 30925 30968	Residue non-canonical interaction detection
+T238	Means 31051 31069	Restriction digest
+T239	Means 31167 31190	Restriction map drawing
+T240	Means 31259 31284	Restriction site creation
+T241	Means 31387 31415	Restriction site recognition
+T242	Means 31576 31594	Reverse complement
+T243	Means 31677 31693	S/MAR prediction
+T244	Means 31783 31803	SAGE data processing
+T245	Means 31897 31916	SBS data processing
+T246	Means 31998 32022	SECIS element prediction
+T247	Means 32107 32120	SNP detection
+T248	Means 32466 32506	Secondary structure alignment generation
+T249	Means 32588 32606	Sequence alignment
+T250	Means 32684 32711	Sequence alignment analysis
+T251	Means 32767 32809	Sequence alignment analysis (conservation)
+T252	Means 32935 32981	Sequence alignment analysis (site correlation)
+T253	Means 33067 33096	Sequence alignment comparison
+T254	Means 33179 33208	Sequence alignment conversion
+T255	Means 33344 33373	Sequence alignment formatting
+T256	Means 33459 33507	Sequence alignment generation (multiple profile)
+T257	Means 33561 33590	Sequence alignment validation
+T258	Means 33654 33686	Sequence alignment visualisation
+T259	Means 33761 33791	Sequence ambiguity calculation
+T260	Means 33928 33947	Sequence annotation
+T261	Means 34041 34058	Sequence assembly
+T262	Means 34178 34208	Sequence cluster visualisation
+T263	Means 34271 34290	Sequence clustering
+T264	Means 34429 34460	Sequence complexity calculation
+T265	Means 34564 34596	Sequence composition calculation
+T266	Means 34690 34737	Sequence composition calculation (nucleic acid)
+T267	Means 34824 34866	Sequence composition calculation (protein)
+T268	Means 34956 34975	Sequence conversion
+T269	Means 35046 35062	Sequence cutting
+T270	Means 35141 35165	Sequence database search
+T271	Means 35367 35419	Sequence database search (by amino acid composition)
+T272	Means 35520 35567	Sequence database search (by isoelectric point)
+T273	Means 35669 35715	Sequence database search (by molecular weight)
+T274	Means 35887 35933	Sequence database search (by motif or pattern)
+T275	Means 36092 36130	Sequence database search (by property)
+T276	Means 36278 36337	Sequence database search (by sequence for primer sequences)
+T277	Means 36487 36562	Sequence database search (by sequence using global alignment-based methods)
+T278	Means 36710 36784	Sequence database search (by sequence using local alignment-based methods)
+T279	Means 36916 36982	Sequence database search (by sequence using profile-based methods)
+T280	Means 37161 37224	Sequence database search (by sequence using word-based methods)
+T281	Means 37354 37389	Sequence distance matrix generation
+T282	Means 37511 37527	Sequence editing
+T283	Means 37613 37640	Sequence feature comparison
+T284	Means 37719 37745	Sequence feature detection
+T285	Means 37877 37896	Sequence formatting
+T286	Means 37972 37991	Sequence generation
+T287	Means 38052 38068	Sequence masking
+T288	Means 38176 38192	Sequence merging
+T289	Means 38271 38296	Sequence motif comparison
+T290	Means 38355 38379	Sequence motif discovery
+T291	Means 38494 38520	Sequence motif recognition
+T292	Means 38625 38649	Sequence motif rendering
+T293	Means 38696 38731	Sequence mutation and randomisation
+T294	Means 38876 38902	Sequence profile alignment
+T295	Means 39055 39087	Sequence profile database search
+T296	Means 39165 39192	Sequence profile generation
+T297	Means 39310 39337	Sequence redundancy removal
+T298	Means 39458 39486	Sequence retrieval (by code)
+T299	Means 39587 39618	Sequence retrieval (by keyword)
+T300	Means 39702 39728	Sequence similarity search
+T301	Means 39832 39852	Sequence tag mapping
+T302	Means 39948 39970	Sequence visualisation
+T303	Means 40131 40155	Sequence word comparison
+T304	Means 40269 40301	Sequence-to-3D-profile alignment
+T305	Means 40441 40492	Sequencing-based expression profile data processing
+T306	Means 40575 40595	Side chain modelling
+T307	Means 40742 40761	Simulation analysis
+T308	Means 40830 40855	Species tree construction
+T309	Means 40963 40985	Splice site prediction
+T310	Means 41068 41104	Structural genomics target selection
+T311	Means 41186 41212	Structural motif discovery
+T312	Means 41297 41347	Structural profile alignment generation (multiple)
+T313	Means 41404 41432	Structural similarity search
+T314	Means 41552 41571	Structure alignment
+T315	Means 41638 41663	Structure alignment (RNA)
+T316	Means 41710 41739	Structure alignment (protein)
+T317	Means 41790 41815	Structure database search
+T318	Means 41986 42025	Structure database search (by sequence)
+T319	Means 42147 42167	Structure prediction
+T320	Means 42248 42277	Structure retrieval (by code)
+T321	Means 42395 42427	Structure retrieval (by keyword)
+T322	Means 42528 42551	Structure visualisation
+T323	Means 42667 42701	Structure-based sequence alignment
+T324	Means 42786 42797	Text mining
+T325	Means 42904 42948	Transcription factor binding site prediction
+T326	Means 43037 43079	Transcription regulatory sequence analysis
+T327	Means 43217 43262	Transcriptional regulatory element prediction
+T328	Means 43381 43436	Transcriptional regulatory element prediction (RNA-cis)
+T329	Means 43550 43588	Translation initiation site prediction
+T330	Means 43685 43715	Transmembrane protein analysis
+T331	Means 43927 43964	Transmembrane protein database search
+T332	Means 44078 44110	Transmembrane protein prediction
+T333	Means 44241 44262	Transposon prediction
+T334	Means 44363 44392	Tree-based sequence alignment
+T335	Means 44517 44542	Variant effect prediction
+T336	Means 44694 44719	Vector sequence detection
+T337	Means 44843 44854	Virtual PCR
+T338	Means 44903 44916	Visualisation
+T339	Means 45033 45054	Whole gene prediction
+T340	Means 45223 45245	Zinc finger prediction
+T341	Means 45385 45418	cis-regulatory element prediction
+T342	Means 45615 45638	miRNA target prediction
+T343	Means 45771 45807	siRNA binding specificity prediction
+T344	Means 45979 45999	tRNA gene prediction
+T345	Means 46075 46110	trans-regulatory element prediction
